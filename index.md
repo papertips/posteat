@@ -36,7 +36,7 @@ page_sections:
   headline: <strong>Deciding what to eat has never been so easy<span class="light">&nbsp;</span></strong><span
     class="light">. Make your fridge your best food advisor.</span>
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2018/06/21/antani.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
@@ -46,8 +46,10 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/1.png"
     alt_text: Customize Blocks
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 ---
+<iframe width="100%" height="100%" src="https://drive.google.com/file/d/1xFUlq3FoEouFKhQ8LHtmHdYjLAHHkS7U/preview"></iframe>
+
+
+<video width="100%" height="240" controls>
+  <source src="Untitled.mp4" type="video/mp4">
+</video>
